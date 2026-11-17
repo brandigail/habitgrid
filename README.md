@@ -2,7 +2,7 @@
 
 A minimalist habit tracker: tick habits off each day, watch a GitHub-style heatmap of your whole year fill in, and keep your streaks alive. Installable, works offline, and everything stays on your device.
 
-**Live demo:** coming soon (built and tested locally; not deployed yet)
+**Live demo:** https://habitgrid-592.netlify.app
 **Run locally:** see [Run locally](#run-locally)
 
 ![Today on a phone](docs/screenshots/today-mobile.png)
